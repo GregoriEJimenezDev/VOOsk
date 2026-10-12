@@ -1,0 +1,79 @@
+
+> ia-transparente-frontend@0.1.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m252[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m6:50:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m6:50:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m6:50:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m6:50:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m6:50:11 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m6:51:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m6:51:51 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m6:55:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m6:55:33 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:04:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:04:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:04:58 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m7:05:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:05:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:05:50 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:06:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m7:06:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:06:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m7:06:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m7:13:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:13:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m7:13:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:13:37 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:13:37 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:23:04 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m7:23:04 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m7:26:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m7:26:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:26:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:26:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:26:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:26:57 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m7:37:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:37:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:37:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:37:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:37:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:44:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m7:44:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m7:44:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:44:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m7:44:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m7:44:46 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:44:57 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m7:45:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Ayuda.jsx[22m
+[2m8:01:58 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:02:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:10:41 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:10:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:10:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:11:41 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m8:11:57 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Ayuda.jsx[22m
+[2m8:17:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:17:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx[22m
+[2m8:17:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx[22m
+[2m8:17:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:17:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m8:21:15 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx, /src/pages/Tareas.jsx[22m
+[2m8:21:15 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/pages/TaskDetail.jsx, /src/pages/Tareas.jsx[22m
+[2m8:21:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SideNav.jsx[22m
+[2m8:21:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m8:21:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TaskDetail.jsx[22m
+[2m8:21:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:21:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/main.jsx[22m
+[2m8:21:47 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Ayuda.jsx[22m
+[2m8:22:05 PM[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@monaco-editor/react[32m[39m
+[2m8:22:05 PM[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+^C^C

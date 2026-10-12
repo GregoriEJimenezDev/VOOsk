@@ -1,0 +1,12 @@
+[project]
+name = "voosk-cli"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["typer", "httpx", "websockets"]
+
+[project.scripts]
+voosk = "ia_transparente.cli:app"
+ia-transparente = "ia_transparente.cli:app"
+
+[build-system]
+requires = ["setuptools"]
