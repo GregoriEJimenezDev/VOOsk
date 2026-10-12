@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VOOsk — MVP
 
 Agentes de IA para desarrollo que muestran **en tiempo real** lo que hacen
@@ -99,3 +100,6 @@ En la misma barra de la tarea (con autocompletado: `Tab` completa, `Enter` enví
    email con formato válido sirve, incluido tu correo real).
 
 Seguridad: credenciales BYOK cifradas con Fernet en reposo; jamás se devuelven por API ni se loguean.
+=======
+# VOOsk
+>>>>>>> 498bf56c9ca9988bab1f2a9d3a0f0d4f0d92c22c
